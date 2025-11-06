@@ -92,7 +92,7 @@ Plus frameworks for adaptive focus, signal clarity, and conscious elimination.
 Ready-to-use system prompts that **mirror patterns back to you** instead of telling you what to do:
 * [Input Auditor](prompts/attention_audio.md) (see your attention balance sheet)
 * [Capture AI](prompts/capture_ai.md) (DMN session companion)
-* [Journaling Feedback](prompts/journal_feedback.md) (accelerate reflection without prescription)
+* [Journaling Feedback](prompts/journaling_feedback.md) (accelerate reflection without prescription)
 * [Sunk Cost Detector](prompts/sunk_cost.md) (flag loss aversion)
 
 ### 2. Attention Capital Frameworks
